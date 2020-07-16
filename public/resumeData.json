@@ -3,9 +3,9 @@
 {
   "main": {
     "name":"Tou Xiong",
-    "occupation":"Full Stack Web Developer",
+    "occupation":"Full Stack Developer",
     "description":"Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
-    "image":"profilepic.jpg",
+    "image":"header-background.jpg",
     "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
     "email": "touyeexiong@gmail.com",
@@ -17,7 +17,7 @@
       "zip": "55123"
     },
     "website": "http://www.touyeexiong.com",
-    "resumedownload":"http://timbakerdev.com",
+    "resumedownload":"/images/tou-xiong-resume.pdf",
     "social":[
       {
         "name":"linkedin",
