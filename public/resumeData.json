@@ -6,10 +6,10 @@
     "occupation":"Full Stack Developer",
     "description":"Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
     "image":"headshot-crop.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+    "bio":"Experienced professional with a demonstrated history of working in the computer software industry. Skilled in Web Development, Software as a Service (SaaS), Sales, Customer Relationship Management (CRM), and Business Development. Strong business development professional turned Full Stack Developer.",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
     "email": "touyeexiong@gmail.com",
-    "phone": "555-555-5555",
+    "phone": "651-354-9576",
     "address":{
       "street":"3435 Promenade Ave, Apt 104",
       "city":"Eagan",
@@ -35,29 +35,28 @@
     "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
     "education":[
       {
-        "school":"University?",
-        "degree":"Masters in Beer tasting",
-        "graduated":"April 2007",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"Prime Digital Academy",
+        "degree":"Full-Stack Software Engineering Certificate",
+        "graduated":"March 2020",
+        "description":"Prime Digital Academy is a 20 week accelerated learning program teaching the foundational software engineering skills through a full-stack development curriculum."
       },
       {
-        "school":"School #1 Maybe College?",
-        "degree":"What did you study 101",
-        "graduated":"March 2003",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"University of Minnesota ",
+        "degree":"Courses taken towards a Bachelor of Science in Economics",
+        "graduated": "September 2010 - September 2014"
       }
     ],
     "work":[
       {
-        "company":"Awesome Design Studio",
-        "title":"Senior UX God ",
-        "years":"March 2010 - Present",
+        "company":"Prime Digital Academy",
+        "title":"Full-Stack Developer Student",
+        "years":"October 2019 - March 2020",
         "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
       },
       {
-        "company":"Super Cool Studio",
-        "title":"Junior bug fixer",
-        "years":"March 2007 - February 2010",
+        "company":"ABM Industry Groups",
+        "title":"Supervisor - Part-Time",
+        "years":"October 2019 - Present",
         "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
       }
     ],
@@ -67,37 +66,29 @@
         "level":"60%"
       },
       {
-        "name":"Illustrator",
-        "level":"55%"
-      },
-      {
         "name":"ReactJs",
         "level":"50%"
       },
       {
         "name":"CSS",
-        "level":"90%"
-      },
-      {
-        "name":"HTML5",
-        "level":"80%"
-      },
-      {
-        "name":"VueJs",
         "level":"50%"
       },
       {
-        "name":"MongoDB",
-        "level":"80%"
+        "name":"HTML5",
+        "level":"70%"
+      },
+      {
+        "name":"PostgreSQL",
+        "level":"60%"
       }
     ]
   },
   "portfolio":{
     "projects": [
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"canadian-wanderlust.jpg",
+        "title":"Donation Day Hub",
+        "category":"A group project we built for a non-profit that aims to tackle homelessness by providing essentials to the community",
+        "image":"hv-rentals.png",
         "url":"https://www.canadianwanderlust.com"
       },
       {
