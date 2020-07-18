@@ -58,6 +58,12 @@
         "title":"Supervisor - Part-Time",
         "years":"October 2019 - Present",
         "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      },
+      {
+        "company": "Aptean",
+        "title": "Account Development Representative",
+        "years": "May 2018 - July 2019",
+        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
       }
     ],
     "skills":[
@@ -95,25 +101,7 @@
         "title":"HV Rentals",
         "category":"A web application built for local RV rental company HV Rentals",
         "image":"hv-rentals.png",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"original-thai-food.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"resume-website.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"smirkspace.jpg",
-        "url":"http://www.smirkspace.com"
+        "url":"https://gentle-wildwood-21761.herokuapp.com/#/home"
       }
     ]
   },
