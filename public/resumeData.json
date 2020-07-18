@@ -88,13 +88,13 @@
       {
         "title":"Donation Day Hub",
         "category":"A group project we built for a non-profit that aims to tackle homelessness by providing essentials to the community",
-        "image":"hv-rentals.png",
+        "image":"client-view.png",
         "url":"https://www.canadianwanderlust.com"
       },
       {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"fury-fighting-gear.jpg",
+        "title":"HV Rentals",
+        "category":"A web application built for local RV rental company HV Rentals",
+        "image":"hv-rentals.png",
         "url":"http://www.timbakerdev.com"
       },
       {
