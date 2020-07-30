@@ -15,6 +15,7 @@ class Contact extends Component {
     }
 
     return (
+       <>
       <section id="contact">
 
          <div className="row section-head">
@@ -75,10 +76,9 @@ class Contact extends Component {
            </div> */}
 
 
-            <aside className="four columns footer-widgets">
-               <div className="widget widget_contact">
-
-					   <h4>Contact Details</h4>
+                <aside className="three columns">
+               {/* <div className="widget widget_contact"> */}
+					   <h4>Contact Detail</h4>
 					   <p className="address">
 						   {name}<br />
                      {email}<br />
@@ -86,10 +86,38 @@ class Contact extends Component {
 						   {city}, {state} {zip}<br />
 						   <span>{phone}</span>
 					   </p>
-				   </div>
+				   {/* </div> */}
             </aside>
       </div>
    </section>
+
+       {/* <section id="contact">
+          <div className="row">
+             <div className="three columns">
+             </div>
+             <div className="nine columns main-col">
+
+                <div className="row">
+
+                   <div className="columns contact-details">
+                      <h2>Contact Details</h2>
+                      <p className="address">
+                         <span>{name}</span><br />
+                         <span>{street}<br />
+                            {city}, {state} {zip}
+                         </span><br />
+                         <span>{phone}</span><br />
+                         <span>{email}</span>
+                      </p>
+                   </div>
+                   <div className="columns download">
+                   </div>
+                </div>
+             </div>
+          </div>
+
+       </section> */}
+</>
     );
   }
 }

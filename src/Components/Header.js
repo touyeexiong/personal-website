@@ -2,7 +2,6 @@ import React, { Component } from 'react';
 
 class Header extends Component {
   render() {
-
     if(this.props.data){
       var name = this.props.data.name;
       var occupation= this.props.data.occupation;
@@ -27,7 +26,7 @@ class Header extends Component {
 	         <li><a className="smoothscroll" href="#resume">Resume</a></li>
             <li><a className="smoothscroll" href="#portfolio">Portfolio</a></li>
             {/* <li><a className="smoothscroll" href="#testimonials">Testimonials</a></li> */}
-            <li><a className="smoothscroll" href="#about">Contact</a></li>
+            <li><a className="smoothscroll" href="#contact">Contact</a></li>
          </ul>
 
       </nav>
