@@ -4,7 +4,7 @@
   "main": {
     "name":"Tou Xiong",
     "occupation":"Full Stack Developer",
-    "description":"Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
+    "description":"I enjoy solving problems and building effective applications. If I'm away from the computer, you can find me on the lake fishing or in the sky with the pigeons",
     "image":"headshot-crop.jpg",
     "bio":"Experienced professional with a demonstrated history of working in the computer software industry. Skilled in Web Development, Software as a Service (SaaS), Sales, Customer Relationship Management (CRM), and Business Development. Strong business development professional turned Full Stack Developer.",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
@@ -51,19 +51,20 @@
         "company":"Prime Digital Academy",
         "title":"Full-Stack Developer Student",
         "years":"October 2019 - March 2020",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "description":"The Intersection - Group Project: The Intersection is a nonprofit organization that bridges volunteers and people experiencing homelessness. Working alongside another 4 developers, we built the client a centralized application that efficiently managed data from a donation day.",
+        "description2": "HV Rentals - Solo Project: Built a web application that streamlines the reservation process for local RV rental business. Developed an efficient reservation process while keeping all business needs in mind."
       },
       {
         "company":"ABM Industry Groups",
         "title":"Supervisor - Part-Time",
         "years":"October 2019 - Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "description":"Manage a diverse team of 5 attendants. Use SKIDATA software to maintain ramps, generate reports, and monitor activity."
       },
       {
         "company": "Aptean",
         "title": "Account Development Representative",
         "years": "May 2018 - July 2019",
-        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "description": "Worked directly with the Apprise ERP software as a Business Development Rep. Engaged prospects on the value of industry specific ERP solutions and driving change. Also, developed sales strategies to increase business revenue."
       }
     ],
     "skills":[
