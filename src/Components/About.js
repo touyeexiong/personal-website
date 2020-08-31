@@ -15,7 +15,7 @@ class About extends Component {
       var email = this.props.data.email;
       var resumeDownload = this.props.data.resumedownload;
     }
-
+JSON.stringify(profilepic)
     return (
        <>
 
@@ -24,6 +24,7 @@ class About extends Component {
          <div className="three columns">
             <img className="profile-pic"  src={profilepic} alt="Tou Xiong Profile Pic" />
          </div>
+         
          <div className="nine columns main-col">
             <h2>About Me</h2>
 
