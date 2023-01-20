@@ -93,16 +93,16 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Donation Day Hub",
-        "category":"A group project we built for a non-profit that aims to tackle homelessness by providing essentials to the community",
-        "image":"client-view.png",
-        "url":"https://powerful-temple-92630.herokuapp.com/"
+        "title":"TWO-X Designs",
+        "category":"A business website built for web design and development",
+        "image":"2x-designs.png",
+        "url":"https://twoxdesigns.com/"
       },
       {
-        "title":"HV Rentals",
+        "title":"Dainty Charms",
         "category":"A web application built for local RV rental company HV Rentals",
-        "image":"hv-rentals.png",
-        "url":"https://gentle-wildwood-21761.herokuapp.com/#/home"
+        "image":"dainty-charms.png",
+        "url":"https://daintycharmsmn.com"
       }
     ]
   },
