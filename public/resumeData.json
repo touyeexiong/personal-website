@@ -48,6 +48,18 @@
     ],
     "work":[
       {
+        "company":"ABM Industry Groups",
+        "title":"Accounting Specialist",
+        "years":"October 2021 - Present",
+        "description":"Reconcile financial transactions across multiple downtown Minneapolis locations. Utilize JD Edwards, TSYS Systems, and ParkMobile apllications to ensure financial accuracy."
+      },
+      {
+        "company":"S & L Designs",
+        "title":"Partner",
+        "years":"January 2020 - Present",
+        "description":"Built dynamic web-applications that are customizable and user-friendly. Developed custom applications along with client-side friendly applications like WordPress."
+      },
+      {
         "company":"Prime Digital Academy",
         "title":"Full-Stack Developer Student",
         "years":"October 2019 - March 2020",
@@ -57,8 +69,8 @@
       {
         "company":"ABM Industry Groups",
         "title":"Supervisor - Part-Time",
-        "years":"October 2019 - Present",
-        "description":"Manage a diverse team of 5 attendants. Use SKIDATA software to maintain ramps, generate reports, and monitor activity."
+        "years":"October 2019 - May 2020",
+        "description":"Managed a diverse team of 5 attendants. Used SKIDATA software to maintain ramps, generate reports, and monitor activity."
       },
       {
         "company": "Aptean",
@@ -78,7 +90,7 @@
       },
       {
         "name":"CSS",
-        "level":"50%"
+        "level":"70%"
       },
       {
         "name":"HTML5",
@@ -87,6 +99,10 @@
       {
         "name":"PostgreSQL",
         "level":"60%"
+      },
+      {
+        "name":"WordPress",
+        "level":"70%"
       }
     ]
   },
@@ -100,7 +116,7 @@
       },
       {
         "title":"Dainty Charms",
-        "category":"A web application built for local RV rental company HV Rentals",
+        "category":"A web application built for local skincare beautician",
         "image":"dainty-charms.png",
         "url":"https://daintycharmsmn.com"
       }
